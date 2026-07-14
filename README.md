@@ -7,6 +7,12 @@ the functionality was implemented using clean, well-structured code.
 ---ITEMS---
 -Arduino UNO
 -BreadBoard
--Jumper Cable(M-M)
--LED
--Resistor(120ohm %1)
+-5 Jumper Cable(M-M)
+-4 LED
+-4 Resistor(120ohm %1)
+
+---Connections--- 
+-LED1(7) 
+-LED2(6) 
+-LED3(5) 
+-LED4(8)
